@@ -1,9 +1,12 @@
 
 // Write your code here
-multiply = num1 * num2
+const variable1 = 2
+const variable2 = 31
 
-random = Math.random
+const multiply = variable1 * variable2
 
-mod = 9%5
+const random = Math.floor(Math.random() * 1000) + 1
 
-max = Math.max(19.678)
+const mod = 9 % 5
+
+const max = Math.max(19.678)
